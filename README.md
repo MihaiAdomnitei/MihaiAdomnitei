@@ -26,8 +26,9 @@ Innovative Computer Science student passionate about technology and leadership. 
 ### 🛠️ Technical:
 
 - **Programming:** Python | Java | C++
-- **Databases:** PostgreSQL | SQL
+- **Databases:** PostgreSQL | Microsoft SQL Server
 - **Frameworks:** JavaFX | Gradle | Qt | CMake | JDBC | JUnit | FXML
+- **Concepts:** OOP | Design Paterns
 
 ### 🔧 Soft Skills:
 
