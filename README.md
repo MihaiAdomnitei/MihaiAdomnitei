@@ -50,16 +50,16 @@ Innovative Computer Science student passionate about technology and leadership. 
 ### 🌟 [Social Network Application](https://github.com/MihaiAdomnitei/social-networkApp) (Java, JavaFX, PostgreSQL)
 - Real-time updates, chat, and friend management using Observer pattern
 
-### 💊 [Pharmacy Management System](https://github.com/MihaiAdomnitei/Pharmacy-Management) (C++, Qt)
+### 💊 [Pharmacy Management System](https://github.com/MihaiAdomnitei/Farmacy) (C++, Qt)
 - CRUD operations, sorting, filtering, and export to CSV/HTML
 
-### 📚 [Library Management System](https://github.com/MihaiAdomnitei/Library-Management) (Python)
+### 📚 [Library Management System](https://github.com/MihaiAdomnitei/Library) (Python)
 - Rental management, client tracking, and file persistence
 
-### ✈️ [Flight Booking System](https://github.com/MihaiAdomnitei/Flight-Booking) (Java, JavaFX, PostgreSQL)
+### ✈️ [Flight Booking System](https://github.com/MihaiAdomnitei/Ticketing-App) (Java, JavaFX, PostgreSQL)
 - Search flights, book seats, and handle live seat availability
 
-### 🏨 [Hotel Management Application](https://github.com/MihaiAdomnitei/Hotel-Management) (Java, JavaFX, PostgreSQL)
+### 🏨 [Hotel Management Application](https://github.com/MihaiAdomnitei/HotelManagement) (Java, JavaFX, PostgreSQL)
 - Special offers, client reservations, and hotel management
 
 ---
