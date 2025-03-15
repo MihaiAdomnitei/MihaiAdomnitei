@@ -47,7 +47,7 @@ Innovative Computer Science student passionate about technology and leadership. 
 
 ## 💻 Projects
 
-### 🌟 [Social Network Application](https://github.com/MihaiAdomnitei/Social-Network) (Java, JavaFX, PostgreSQL)
+### 🌟 [Social Network Application](https://github.com/MihaiAdomnitei/social-networkApp) (Java, JavaFX, PostgreSQL)
 - Real-time updates, chat, and friend management using Observer pattern
 
 ### 💊 [Pharmacy Management System](https://github.com/MihaiAdomnitei/Pharmacy-Management) (C++, Qt)
