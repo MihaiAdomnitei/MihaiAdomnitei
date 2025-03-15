@@ -1,16 +1,88 @@
-## Hi there 👋
+# MIHAI ADOMNITEI
+**Creative Problem Solver | Aspiring Junior Project Manager**
 
-<!--
-**MihaiAdomnitei/MihaiAdomnitei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Cluj Napoca | 📧 [mihaiadomnitei6@gmail.com](mailto:mihaiadomnitei6@gmail.com) | 🔗 [GitHub](https://github.com/MihaiAdomnitei) | 📞 +40 749 892 991
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objective
+
+Innovative Computer Science student passionate about technology and leadership. Seeking to blend my technical skills with project management expertise to create impactful software solutions.
+
+---
+
+## 🎓 Education
+
+- **Babeș-Bolyai University** – Cluj Napoca  
+  **Bachelor’s Degree in Computer Science (2nd Year)**
+
+- **National College “Petru Rareș”** – Suceava  
+  **Mathematics and Informatics**
+
+---
+
+## 💡 Skills
+
+### 🛠️ Technical:
+
+- **Programming:** Python | Java | C++
+- **Databases:** PostgreSQL | SQL
+- **Frameworks:** JavaFX | Gradle | Qt | CMake | JDBC | JUnit | FXML
+
+### 🔧 Soft Skills:
+
+- Analytical Problem-Solving
+- Team Collaboration
+- Fast Adaptability
+- Clear Communication
+
+---
+
+## 📜 Certifications
+
+- 🏅 Cambridge English Certificate
+- 🏅 IC3 Digital Literacy Certification
+
+---
+
+## 💻 Projects
+
+### 🌟 [Social Network Application](https://github.com/MihaiAdomnitei/Social-Network) (Java, JavaFX, PostgreSQL)
+- Real-time updates, chat, and friend management using Observer pattern
+
+### 💊 [Pharmacy Management System](https://github.com/MihaiAdomnitei/Pharmacy-Management) (C++, Qt)
+- CRUD operations, sorting, filtering, and export to CSV/HTML
+
+### 📚 [Library Management System](https://github.com/MihaiAdomnitei/Library-Management) (Python)
+- Rental management, client tracking, and file persistence
+
+### ✈️ [Flight Booking System](https://github.com/MihaiAdomnitei/Flight-Booking) (Java, JavaFX, PostgreSQL)
+- Search flights, book seats, and handle live seat availability
+
+### 🏨 [Hotel Management Application](https://github.com/MihaiAdomnitei/Hotel-Management) (Java, JavaFX, PostgreSQL)
+- Special offers, client reservations, and hotel management
+
+---
+
+## 🌍 Languages
+
+- **English** (Advanced)
+- **Romanian** (Native)
+
+---
+
+## 🎯 Interests
+
+- Software Architecture
+- Project Leadership
+- AI & Automation
+
+---
+
+## 🔎 References
+
+Available upon request
+
+---
+
+> "Technology is best when it brings people together." – Matt Mullenweg
