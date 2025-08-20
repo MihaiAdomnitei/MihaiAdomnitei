@@ -1,5 +1,4 @@
 # MIHAI ADOMNITEI
-**Creative Problem Solver | Aspiring Junior Project Manager**
 
 📍 Cluj Napoca | 📧 [mihaiadomnitei6@gmail.com](mailto:mihaiadomnitei6@gmail.com) | 🔗 [GitHub](https://github.com/MihaiAdomnitei) | 📞 +40 749 892 991
 
@@ -7,7 +6,7 @@
 
 ## 🚀 Objective
 
-Innovative Computer Science student passionate about technology and leadership. Seeking to blend my technical skills with project management expertise to create impactful software solutions.
+Innovative Computer Science student passionate about technology, AI automation, and intelligent agent development. Seeking to blend my technical skills in programming, RPA, and AI agents with project management expertise to create impactful software solutions.
 
 ---
 
@@ -25,24 +24,24 @@ Innovative Computer Science student passionate about technology and leadership. 
 
 ### 🛠️ Technical:
 
-- **Programming:** Python | Java | C++
-- **Databases:** PostgreSQL | Microsoft SQL Server
-- **Frameworks:** JavaFX | Gradle | Qt | CMake | JDBC | JUnit | FXML
-- **Concepts:** OOP | Design Paterns
+- **Programming:** Python | Java | C++ | UiPath Studio / RPA workflows / Ai Agents
+- **Databases:** PostgreSQL | Microsoft SQL Server  
+- **Frameworks & Tools:** JavaFX | Gradle | Qt | CMake | JDBC | JUnit | FXML | Automation Cloud | Orchestrator  
+- **Concepts:** OOP | Design Patterns | AI Agent Development | Natural Language Processing | Automated Email & Excel Reporting  
 
 ### 🔧 Soft Skills:
 
-- Analytical Problem-Solving
-- Team Collaboration
-- Fast Adaptability
-- Clear Communication
+- Analytical Problem-Solving  
+- Team Collaboration  
+- Fast Adaptability  
+- Clear Communication  
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Cambridge English Certificate
-- 🏅 IC3 Digital Literacy Certification
+- 🏅 Cambridge English Certificate  
+- 🏅 IC3 Digital Literacy Certification  
 
 ---
 
@@ -63,20 +62,26 @@ Innovative Computer Science student passionate about technology and leadership. 
 ### 🏨 [Hotel Management Application](https://github.com/MihaiAdomnitei/HotelManagement) (Java, JavaFX, PostgreSQL)
 - Special offers, client reservations, and hotel management
 
+### 🤖 [AI Customer Support Agent](https://github.com/MihaiAdomnitei/AI-Customer-Support-Agent) (UiPath, RPA, AI)
+- An AI-powered agent that analyzes customer interactions and generates responses tailored for **chat, email, and social media**  
+- Detects emotional or dissatisfied customers and automatically **escalates issues** to human agents  
+- Sends **automated emails** with Excel attachments containing customer registration data and issue details  
+- Implemented AI prompt design, NLP-based sentiment analysis, automated workflow creation, and dynamic report generation  
+
 ---
 
 ## 🌍 Languages
 
-- **English** (Advanced)
-- **Romanian** (Native)
+- **English** (Advanced)  
+- **Romanian** (Native)  
 
 ---
 
 ## 🎯 Interests
 
-- Software Architecture
-- Project Leadership
-- AI & Automation
+- Software Architecture  
+- Project Leadership  
+- AI & Automation  
 
 ---
 
