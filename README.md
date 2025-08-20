@@ -66,7 +66,14 @@ Innovative Computer Science student passionate about technology, AI automation, 
 - An AI-powered agent that analyzes customer interactions and generates responses tailored for **chat, email, and social media**  
 - Detects emotional or dissatisfied customers and automatically **escalates issues** to human agents  
 - Sends **automated emails** with Excel attachments containing customer registration data and issue details  
-- Implemented AI prompt design, NLP-based sentiment analysis, automated workflow creation, and dynamic report generation  
+- Implemented AI prompt design, NLP-based sentiment analysis, automated workflow creation, and dynamic report generation
+
+### 🌤️ [Umbrelino – Your Meteorolog](https://github.com/MihaiAdomnitei/Umbrelino) (UiPath, RPA, AI, Email Automation)
+- AI-powered weather agent delivering **fun, cheerful daily weather updates** via email  
+- Fetches real-time weather data based on user location and creates **humorous, uplifting messages**  
+- Automatically schedules daily delivery at 7:00 AM local time  
+- Sends emails with optional emojis and motivational fallback messages if weather data is unavailable  
+- Developed skills in **RPA workflows, API integration, AI messaging, email automation, and scheduling**
 
 ---
 
