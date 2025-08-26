@@ -13,7 +13,7 @@ Innovative Computer Science student passionate about technology, AI automation, 
 ## 🎓 Education
 
 - **Babeș-Bolyai University** – Cluj Napoca  
-  **Bachelor’s Degree in Computer Science (2nd Year)**
+  **Bachelor’s Degree in Computer Science (3rd Year)**
 
 - **National College “Petru Rareș”** – Suceava  
   **Mathematics and Informatics**
@@ -47,6 +47,23 @@ Innovative Computer Science student passionate about technology, AI automation, 
 
 ## 💻 Projects
 
+### 🏊‍♂️🚴‍♂️🏃 [Triathlon Management Platform](https://github.com/MihaiAdomnitei/Triatlon-Management-Platform) (Java, Spring Boot, Hibernate, React, WebSockets, Protocol Buffers, JSON, C#)
+- **Multi-module Gradle project** delivering a full-stack distributed system for managing triathlon competitions  
+- **Persistence:** dual strategy (JDBC + Hibernate 6 ORM) with repository abstraction  
+- **Services:** business logic encapsulated in service layer with Observer callbacks for real-time UI updates  
+- **Networking:** custom socket-based servers supporting **JSON** and **Protocol Buffers** serialization  
+- **Cross-platform:** Java server interoperating with C# clients through agreed wire protocols  
+- **REST API:** Spring Boot 3 endpoints for Participants, Probe, and Rezultate with full CRUD  
+- **Web client:** React frontend consuming REST APIs, integrated with **real-time WebSocket notifications**  
+- **Architectural patterns:** Repository, Service Facade, Observer, Strategy, Layered Architecture  
+- **Skills gained:** distributed systems, ORM migration, concurrent server design, RESTful API design, full-stack integration with React & WebSockets, multi-language interoperability (Java ↔ C#)
+
+### 🤖 [AI Customer Support Agent](https://github.com/MihaiAdomnitei/AI-Customer-Support-Agent) (UiPath, RPA, AI)
+- An AI-powered agent that analyzes customer interactions and generates responses tailored for **chat, email, and social media**  
+- Detects emotional or dissatisfied customers and automatically **escalates issues** to human agents  
+- Sends **automated emails** with Excel attachments containing customer registration data and issue details  
+- Implemented AI prompt design, NLP-based sentiment analysis, automated workflow creation, and dynamic report generation
+
 ### 🌟 [Social Network Application](https://github.com/MihaiAdomnitei/social-networkApp) (Java, JavaFX, PostgreSQL)
 - Real-time updates, chat, and friend management using Observer pattern
 
@@ -61,12 +78,6 @@ Innovative Computer Science student passionate about technology, AI automation, 
 
 ### 🏨 [Hotel Management Application](https://github.com/MihaiAdomnitei/HotelManagement) (Java, JavaFX, PostgreSQL)
 - Special offers, client reservations, and hotel management
-
-### 🤖 [AI Customer Support Agent](https://github.com/MihaiAdomnitei/AI-Customer-Support-Agent) (UiPath, RPA, AI)
-- An AI-powered agent that analyzes customer interactions and generates responses tailored for **chat, email, and social media**  
-- Detects emotional or dissatisfied customers and automatically **escalates issues** to human agents  
-- Sends **automated emails** with Excel attachments containing customer registration data and issue details  
-- Implemented AI prompt design, NLP-based sentiment analysis, automated workflow creation, and dynamic report generation
 
 ### 🌤️ [Umbrelino – Your Meteorolog](https://github.com/MihaiAdomnitei/Umbrelino-WeatherBot) (UiPath, RPA, AI, Email Automation)
 - AI-powered weather agent delivering **fun, cheerful daily weather updates** via email  
