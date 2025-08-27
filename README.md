@@ -58,6 +58,17 @@ Innovative Computer Science student passionate about technology, AI automation, 
 - **Architectural patterns:** Repository, Service Facade, Observer, Strategy, Layered Architecture  
 - **Skills gained:** distributed systems, ORM migration, concurrent server design, RESTful API design, full-stack integration with React & WebSockets, multi-language interoperability (Java ↔ C#)
 
+  ### 🧠 [AI Defect Detection System](https://github.com/MihaiAdomnitei/AI-Software-Defect-Detection) (Python, scikit-learn, pandas, matplotlib, regex, AST)
+- **Modular Python project** for static and AI-powered defect detection in source code  
+- **Static analysis:** calculates Cyclomatic, Cognitive, Halstead metrics, and lines of code  
+- **Pattern detection:** identifies defect-prone patterns (resource leaks, logic errors, performance issues)  
+- **AI integration:** machine learning model assigns defect probability scores and compares with rule-based detection  
+- **Reporting:** generates **JSON, HTML, and CSV reports** with summaries, visualizations, and defect risk levels  
+- **Data analysis:** correlates metrics with defects, extracts statistical insights and trends  
+- **Demo mode:** runs on a buggy class, showing side-by-side results of static vs. AI-based detection  
+- **Architectural patterns:** Strategy, Observer, Layered Architecture  
+- **Skills gained:** static code analysis, ML-based defect detection, complexity metrics, software quality assurance, automated reporting, data visualization
+
 ### 🤖 [AI Customer Support Agent](https://github.com/MihaiAdomnitei/AI-Customer-Support-Agent) (UiPath, RPA, AI)
 - An AI-powered agent that analyzes customer interactions and generates responses tailored for **chat, email, and social media**  
 - Detects emotional or dissatisfied customers and automatically **escalates issues** to human agents  
