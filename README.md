@@ -47,6 +47,8 @@ Innovative Computer Science student passionate about technology, AI automation, 
 
 ## 💻 Projects
 
+### Mobile Apps :
+
 ### 🏊‍♂️🚴‍♂️🏃 [Triathlon Management Platform](https://github.com/MihaiAdomnitei/Triatlon-Management-Platform) (Java, Spring Boot, Hibernate, React, WebSockets, Protocol Buffers, JSON, C#)
 - **Multi-module Gradle project** delivering a full-stack distributed system for managing triathlon competitions  
 - **Persistence:** dual strategy (JDBC + Hibernate 6 ORM) with repository abstraction  
