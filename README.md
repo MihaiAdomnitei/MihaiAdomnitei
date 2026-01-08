@@ -59,7 +59,7 @@ Innovative Computer Science student passionate about technology, AI automation, 
 - **Architectural patterns:** Layered Architecture, Repository, Service abstraction  
 - **Skills gained:** cross-platform mobile development, offline-first design, RESTful APIs, mobile state management, native device integration (Camera, GPS)
 
-### 📱 [MyApp – Mobile Product Management Application](https://github.com/MihaiAdomnitei/AndroidApp) 📦(Kotlin, Jetpack Compose, Room, Retrofit, Node.js, Express, JWT)
+### 📱 [AndroidApp – Mobile Product Management Application](https://github.com/MihaiAdomnitei/AndroidApp) 📦(Kotlin, Jetpack Compose, Room, Retrofit, Node.js, Express, JWT)
 - **Full-stack mobile application** for real-time product management on Android  
 - **Offline-first architecture:** local Room database as single source of truth with full functionality offline  
 - **Real-time synchronization:** automatic data sync when network connectivity is restored  
