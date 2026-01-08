@@ -47,7 +47,31 @@ Innovative Computer Science student passionate about technology, AI automation, 
 
 ## 💻 Projects
 
-### Mobile Apps :
+### 📱 Mobile Apps :
+
+### 📱 [Ionic Car Manager](https://github.com/MihaiAdomnitei/IonicApp) 🚗(Ionic React, Node.js, REST API, SQLite, Capacitor)
+- **Cross-platform mobile application** for managing a car inventory on Android and iOS  
+- **Offline-first architecture:** local SQLite storage with automatic synchronization when the network is available  
+- **Real-time updates:** seamless data refresh across devices via backend synchronization  
+- **Backend:** Node.js REST API providing full CRUD operations and sync endpoints  
+- **Native integrations:** camera for car photo capture and GPS for location-based tracking  
+- **Mobile UI:** responsive Ionic React components optimized for touch interaction  
+- **Architectural patterns:** Layered Architecture, Repository, Service abstraction  
+- **Skills gained:** cross-platform mobile development, offline-first design, RESTful APIs, mobile state management, native device integration (Camera, GPS)
+
+### 📱 [MyApp – Mobile Product Management Application](https://github.com/MihaiAdomnitei/MyApp) 📦(Kotlin, Jetpack Compose, Room, Retrofit, Node.js, Express, JWT)
+- **Full-stack mobile application** for real-time product management on Android  
+- **Offline-first architecture:** local Room database as single source of truth with full functionality offline  
+- **Real-time synchronization:** automatic data sync when network connectivity is restored  
+- **Authentication:** secure login and registration using JWT-based authentication  
+- **Product management:** full CRUD operations with image capture and storage via FileProvider  
+- **Backend:** Node.js REST API built with Express.js, including middleware for validation and authorization  
+- **Asynchronous processing:** Coroutines and Flow for reactive data streams and background operations  
+- **UI:** modern declarative interface using Jetpack Compose and Material Design 3  
+- **Architectural patterns:** MVVM, Repository, Clean Architecture, Dependency Injection  
+- **Skills gained:** Android development with Kotlin, offline-first mobile design, RESTful APIs, authentication & security, reactive programming, scalable backend integration
+  
+
 
 ### 🏊‍♂️🚴‍♂️🏃 [Triathlon Management Platform](https://github.com/MihaiAdomnitei/Triatlon-Management-Platform) (Java, Spring Boot, Hibernate, React, WebSockets, Protocol Buffers, JSON, C#)
 - **Multi-module Gradle project** delivering a full-stack distributed system for managing triathlon competitions  
