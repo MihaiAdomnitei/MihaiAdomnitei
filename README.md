@@ -47,7 +47,13 @@ Innovative Computer Science student passionate about technology, AI automation, 
 
 ## 💻 Projects
 
-### 📱 Mobile Apps :
+### 🦷 https://github.com/MihaiAdomnitei/ChatBot (FastAPI, Streamlit, Hugging Face, LoRA)
+
+- AI-powered medical chatbot for training dental diagnosis through conversational patient simulation
+- Frontend: Streamlit chat UI connected to the backend API
+- Backend: FastAPI with configurable AI engine (Hugging Face Inference API/Endpoint or mock engine)
+- Features: pathology selection, chat session management, patient profiles, safety filters, generation parameter configuration
+- Demo: [Demo.mp4](https://github.com/MihaiAdomnitei/ChatBot/blob/main/Demo.mp4) 
 
 ### 📱 [Ionic Car Manager](https://github.com/MihaiAdomnitei/IonicApp) 🚗(Ionic React, Node.js, REST API, SQLite, Capacitor)
 - **Cross-platform mobile application** for managing a car inventory on Android and iOS  
