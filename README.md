@@ -47,7 +47,7 @@ Innovative Computer Science student passionate about technology, AI automation, 
 
 ## 💻 Projects
 
-### 🦷 https://github.com/MihaiAdomnitei/ChatBot (FastAPI, Streamlit, Hugging Face, LoRA)
+### 🦷 [Dental ChatBot](https://github.com/MihaiAdomnitei/ChatBot) (FastAPI, Streamlit, Hugging Face, LoRA)
 
 - AI-powered medical chatbot for training dental diagnosis through conversational patient simulation
 - Frontend: Streamlit chat UI connected to the backend API
